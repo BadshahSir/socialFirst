@@ -3,3 +3,7 @@ this file created by vs code
 and write after the add.
 this line after the commit.
 do the things how you want.
+the file show 
+numver  show 
+tiger line
+line a added into the paragraph.
