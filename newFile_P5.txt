@@ -1,0 +1,18 @@
+the line is made for the check 
+
+to ignore any file in the git bash 
+create a file with name of = .gitignore 
+and write the name of file in .gitignore file
+
+
+to ignore specific file in directory 
+the write directory name extension and forward slash and star and give name of file== tmp/*.tmp 
+
+
+if same folder name find in two place like a tmp file find in the tmp folder and  another tmp file find in socialbook.img folder.    git bash will ignore both tmp folder but i want to keep track of socialbook folder tmp how to do this
+      git will track only those tmp file which is under the socialbook not those which are independent tmp.
+
+if i create a file and write something and then add into .gitignore file those file still track by git, 
+
+to stop git from the tracking those file ===== git rm --cached <file_name> ====
+      after run the command git rm --cached file_name and git status it show file is deleted but file is not actually deleted. It deleted from git bash records.
