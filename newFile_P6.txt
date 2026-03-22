@@ -4,4 +4,4 @@
 2. To compare staging and commit
            => git diff --staged
 
-3. To 
+3. To learning is cool to git
