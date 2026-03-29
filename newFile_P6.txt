@@ -1,7 +1,1 @@
-1. To compare working and staging 
-          => git diff 
-
-2. To compare staging and commit
-           => git diff --staged
-
-3. To learning is cool to git
+working is the important that work must be lead to income.
