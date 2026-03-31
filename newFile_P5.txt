@@ -4,3 +4,4 @@ to ignore any file in the git bash
 create a file with name of = .gitignore 
 and write the name of file in .gitignore file
 
+git reset --soft , git reset --mixed and git reset --hard is used to reset.
